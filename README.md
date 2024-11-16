@@ -1,12 +1,11 @@
-this is for college laboratory work
+<h1>College laboratory work Repository</h1>
 
-#Sanju2op
-and we should be able to push our college work here
+# Sanju2op
 
-<<<<<<< HEAD
+i am a contributor here
 
 # AryanPatel198
-i sell drugs want some?
-=======
+
+I am the manager
+
 #this is supposed to reflect
->>>>>>> 266a31ba730555390868598ed1805867eafe4ba6
